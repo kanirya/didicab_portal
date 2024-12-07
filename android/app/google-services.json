@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "168767102842",
+    "firebase_url": "https://didi-auth-default-rtdb.firebaseio.com",
+    "project_id": "didi-auth",
+    "storage_bucket": "didi-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168767102842:android:9e42c168dd109c28b3c0c3",
+        "android_client_info": {
+          "package_name": "com.didicab.didiauth2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaPCgsgBEA7F4YHSWd0k0Fkm155IxsX-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168767102842:android:80f4845e876d1c12b3c0c3",
+        "android_client_info": {
+          "package_name": "com.didicab.didipartal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaPCgsgBEA7F4YHSWd0k0Fkm155IxsX-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
